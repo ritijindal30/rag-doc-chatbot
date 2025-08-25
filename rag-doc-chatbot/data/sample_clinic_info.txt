@@ -1,0 +1,29 @@
+Sunrise Family Clinic — Patient Info Sheet (Sample)
+--------------------------------------------------
+Address: 123 Health Park Road, Bengaluru 560001
+Main Phone: +91-80-5555-1234
+Website: www.sunrisefamilyclinic.example
+
+Business Hours:
+- Monday to Friday: 9:00 AM – 6:30 PM IST
+- Saturday: 9:00 AM – 1:00 PM IST
+- Sunday & Public Holidays: Closed
+
+Emergency After-Hours:
+Call our partner hospital helpline at +91-80-9999-1111.
+
+Departments & Services:
+- General Medicine, Pediatrics, Gynecology
+- Routine lab tests (Mon–Sat, samples accepted till 12:30 PM)
+- Vaccination (Tue/Thu 10:00 AM – 1:00 PM)
+
+Appointment Policy:
+- Appointments recommended; limited walk-ins accepted.
+- Rescheduling: please call at least 3 hours prior.
+- No-show fee may apply after 2 missed appointments.
+
+Insurance & Billing:
+- We accept major insurers: ABC Health, MediCare India, GoodCare.
+- Cashless available for partner providers; bring ID and policy number.
+
+Contact Email: care@sunrisefamilyclinic.example

@@ -1,0 +1,25 @@
+# Core
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+python-dotenv==1.0.1
+
+# LangChain + ecosystem
+langchain==0.2.14
+langchain-community==0.2.12
+langchain-openai==0.1.25
+
+# Vector store
+faiss-cpu==1.8.0.post1
+
+# Embeddings (local)
+sentence-transformers==3.0.1
+
+# Loaders & utils
+pypdf==4.3.1
+docx2txt==0.8
+tiktoken==0.7.0
+
+# Frontend
+streamlit==1.37.1
+httpx==0.27.0
